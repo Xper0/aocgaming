@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/aocgaming/static/css/main.22c14e18.chunk.css",
+    "main.js": "/aocgaming/static/js/main.84ba78e8.chunk.js",
+    "main.js.map": "/aocgaming/static/js/main.84ba78e8.chunk.js.map",
+    "runtime-main.js": "/aocgaming/static/js/runtime-main.2b42faf8.js",
+    "runtime-main.js.map": "/aocgaming/static/js/runtime-main.2b42faf8.js.map",
+    "static/css/2.57e785a9.chunk.css": "/aocgaming/static/css/2.57e785a9.chunk.css",
+    "static/js/2.03a870ed.chunk.js": "/aocgaming/static/js/2.03a870ed.chunk.js",
+    "static/js/2.03a870ed.chunk.js.map": "/aocgaming/static/js/2.03a870ed.chunk.js.map",
+    "static/js/3.a6aa031d.chunk.js": "/aocgaming/static/js/3.a6aa031d.chunk.js",
+    "static/js/3.a6aa031d.chunk.js.map": "/aocgaming/static/js/3.a6aa031d.chunk.js.map",
+    "index.html": "/aocgaming/index.html",
+    "static/css/2.57e785a9.chunk.css.map": "/aocgaming/static/css/2.57e785a9.chunk.css.map",
+    "static/css/main.22c14e18.chunk.css.map": "/aocgaming/static/css/main.22c14e18.chunk.css.map",
+    "static/js/2.03a870ed.chunk.js.LICENSE.txt": "/aocgaming/static/js/2.03a870ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b42faf8.js",
+    "static/css/2.57e785a9.chunk.css",
+    "static/js/2.03a870ed.chunk.js",
+    "static/css/main.22c14e18.chunk.css",
+    "static/js/main.84ba78e8.chunk.js"
+  ]
+}
